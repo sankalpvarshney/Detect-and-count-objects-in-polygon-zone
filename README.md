@@ -23,7 +23,29 @@ For multiple polygon regions uisng YOLO v5
 ```bash
 python yolov5MultiplePolygon.py -i <input video path> -o <output video path>
 ```
-For multiple polygon regions uisng YOLO v8 
+For multiple polygon regions uisng YOLO v8 (Recommended for multiple region)
 ```bash
 python yolov8MultiplePolygon.py -i <input video path> -o <output video path>
+```
+
+### Python
+For single polygon region uisng YOLO v8
+```python
+from yolov8SinglePolygon import CountObject
+obj = CountObject(<input_file_path>,<output_file_path>)
+obj.process_video()
+```
+
+For multiple polygon regions uisng YOLO v5
+```python
+from yolov5MultiplePolygon import CountObject
+obj = CountObject(<input_file_path>,<output_file_path>)
+obj.process_video()
+```
+
+For multiple polygon regions uisng YOLO v8 (Recommended for multiple region)
+```python
+from yolov8MultiplePolygon import CountObject
+obj = CountObject(<input_file_path>,<output_file_path>)
+obj.process_video()
 ```
