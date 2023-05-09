@@ -1,6 +1,6 @@
 # Object Detection and Count in polygon zone
 
-This repository contains multiple python file for detecting and count objects in multiple region of frame using various version of YOLO algorithms.
+This repository contains multiple Python files for object detection and object counting in different regions of a frame, utilizing various versions of YOLO (You Only Look Once) algorithms.
 
 ## Installation
 
@@ -8,3 +8,5 @@ This repository contains multiple python file for detecting and count objects in
 git clone https://github.com/sankalpvarshney/Detect-and-count-objects-in-polygon-zone.git
 pip install -r requirements.txt
 ```
+
+## Usage
