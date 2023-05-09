@@ -6,4 +6,5 @@ This repository contains multiple python file for detecting and count objects in
 
 ```bash
 git clone https://github.com/sankalpvarshney/Detect-and-count-objects-in-polygon-zone.git
+pip install -r requirements.txt
 ```
