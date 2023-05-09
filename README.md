@@ -49,3 +49,10 @@ from yolov8MultiplePolygon import CountObject
 obj = CountObject(<input_file_path>,<output_file_path>)
 obj.process_video()
 ```
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
