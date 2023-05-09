@@ -1,0 +1,6 @@
+env
+data
+yolov5x6.pt
+yolov8s.pt
+./yolov5
+output
