@@ -50,6 +50,9 @@ obj = CountObject(<input_file_path>,<output_file_path>)
 obj.process_video()
 ```
 
+[![Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/sankalpvarshney/Detect-and-count-objects-in-polygon-zone/blob/master/upload/public-place-v8result.mp4)
+
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
