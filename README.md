@@ -14,3 +14,8 @@ pip install -r requirements.txt
 ## Usage
 
 ### Linux
+
+For Single polygon region uisng YOLO v8
+```bash
+python yolov8SinglePolygon.py -i <input video path> -o <output video path>
+```
