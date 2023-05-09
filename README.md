@@ -6,7 +6,11 @@ This repository contains multiple Python files for object detection and object c
 
 ```bash
 git clone https://github.com/sankalpvarshney/Detect-and-count-objects-in-polygon-zone.git
+cd Detect-and-count-objects-in-polygon-zone
+conda create --prefix ./env python=3.8 -y
 pip install -r requirements.txt
 ```
 
 ## Usage
+
+### Linux
