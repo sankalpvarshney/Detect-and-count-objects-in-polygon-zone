@@ -52,11 +52,6 @@ obj.process_video()
 
 https://github.com/sankalpvarshney/Detect-and-count-objects-in-polygon-zone/assets/41926323/0ccf1c8f-d1a1-4935-ba19-f349dca88a82
 
-
-
-
-![Screenshot from 2023-05-09 22-49-47](https://github.com/sankalpvarshney/Detect-and-count-objects-in-polygon-zone/assets/41926323/edd11fc9-d43d-4184-8873-373c851df994)
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
